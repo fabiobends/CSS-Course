@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
 	background: linear-gradient(to bottom, rgb(204,229,255), rgba(204,229,255,0.4));
 } 
@@ -14,4 +15,22 @@ body {
 	height: 400px;
 	width: 70%;
 	background: radial-gradient(red 20%, blue 40%, green 55%);
+=======
+body {
+	background: linear-gradient(to bottom, rgb(204,229,255), rgba(204,229,255,0.4));
+} 
+
+#title {
+	color: rgb(186,133,9);
+}
+
+.subtitle {
+	color: rgb(200,148,30);
+}
+
+#service-image {
+	height: 400px;
+	width: 70%;
+	background: radial-gradient(red 20%, blue 40%, green 55%);
+>>>>>>> f6f96cba0522bedd1ccc0d61b817fd4d074c8d91
 }
